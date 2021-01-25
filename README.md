@@ -1,6 +1,7 @@
 # ProjectEuler
-# I uploaded solutuons in Python for first questions in Project Euler.
+# I uploaded solutions in Python3 for first questions in Project Euler.
 
+I didn't use Advance modules but for handiness, I used Eulerlib module. You can also add this module using PIP.
 ''' About Project Euler
 Leonhard Euler (1707-1783)
 What is Project Euler?
