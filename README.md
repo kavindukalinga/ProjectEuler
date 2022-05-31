@@ -2,7 +2,7 @@
 ### I have uploaded the solutions for first questions of Project Euler using `Python3`
 
 I didn't use Advance modules but for handiness, I used Eulerlib module. You can also add this module using `pip`.  
-    `pip install numpy`   
+    `pip install eulerlib`   
 
 
 ## About Project Euler
