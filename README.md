@@ -31,4 +31,4 @@ If you already have an account, then **Sign In**. Otherwise, please **Register â
 However, as the problems are challenging, then you may wish to view the Problems before registering.'''
 ### projectEuler [website](https://projecteuler.net/)
 
-## [Kavindu Kalinga](https://www.linkedin.com/in/kalingachandrasiri/)
+## Kavindu Kalinga [[in]](https://www.linkedin.com/in/kalingachandrasiri/)
