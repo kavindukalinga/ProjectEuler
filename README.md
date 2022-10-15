@@ -31,4 +31,17 @@ If you already have an account, then **Sign In**. Otherwise, please **Register â
 However, as the problems are challenging, then you may wish to view the Problems before registering.'''
 ### projectEuler [website](https://projecteuler.net/)
 
-## Kavindu Kalinga [[in]](https://www.linkedin.com/in/kalingachandrasiri/)
+<!-- shields.io -->
+<p align="left"> <img src="https://img.shields.io/github/languages/count/kavindukalinga/projecteuler" alt="kavindukalinga" /> <img src="https://img.shields.io/github/languages/top/kavindukalinga/projecteuler" alt="kavindukalinga" /></a> </p>
+<p align="left"> <img src="https://img.shields.io/github/last-commit/kavindukalinga/learning" alt="projecteuler" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/KalingaKavindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavindukalinga" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kalingachandrasiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalingachandrasiri" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16277941/kavindu-kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kavindu-kalinga" height="30" width="40" /></a>
+<a href="https://www.facebook.com/kavindu.kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavindu.kalinga" height="30" width="40" /></a>
+<a href="https://www.instagram.com/kavindu_kalinga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavindu_kalinga" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/c/uckvw2mrlhn_qxktjxyzahzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uckvw2mrlhn_qxktjxyzahzw" height="30" width="40" /></a> -->
+<a href="https://discord.gg/CrazzyHawK#8536" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="CrazzyHawK#8536" height="30" width="40" /></a>
+</p>
